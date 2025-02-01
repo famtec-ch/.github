@@ -1,6 +1,6 @@
 # Willkommen bei **FamTec** 🚀
 
-**FamTec** ist ein Projekt von [Turukmoorea](https://github.com/Turukmoorea) und Co, das sich mit der Optimierung und Sicherheit digitaler Infrastrukturen befasst. Ziel ist es, eine zuverlässige und geschützte Umgebung für interne Abläufe sowie unterstützende digitale Werkzeuge bereitzustellen.
+**FamTec** ist ein Projekt von [Turukmoorea](https://github.com/Turukmoorea) und Mitstreiter, das sich mit der Optimierung und Sicherheit digitaler Infrastrukturen befasst. Ziel ist es, eine zuverlässige und geschützte Umgebung für interne Abläufe sowie unterstützende digitale Werkzeuge bereitzustellen.
 
 ## 🌍 Allgemeine Informationen
 FamTec verfolgt einen praxisnahen Ansatz zur stetigen Verbesserung digitaler Prozesse. Dabei kommen moderne Technologien zum Einsatz, um eine stabile und sichere Umgebung zu gewährleisten.
