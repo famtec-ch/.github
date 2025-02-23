@@ -1,6 +1,6 @@
 # Willkommen bei **FamTec** 🚀
 
-**FamTec** ist ein Projekt von [Turukmoorea](https://github.com/Turukmoorea) und Mitstreiter, das sich mit der Optimierung und Sicherheit digitaler Infrastrukturen befasst. Ziel ist es, eine zuverlässige und geschützte Umgebung für interne Abläufe sowie unterstützende digitale Werkzeuge bereitzustellen.
+**FamTec** ist ein Projekt von [Turukmoorea](https://github.com/Turukmoorea) und Mitstreiter:innen, das sich mit der Optimierung und Sicherheit digitaler Infrastrukturen befasst. Ziel ist es, eine zuverlässige und geschützte Umgebung für interne Abläufe sowie unterstützende digitale Werkzeuge bereitzustellen.
 
 ## 🌍 Allgemeine Informationen
 FamTec verfolgt einen praxisnahen Ansatz zur stetigen Verbesserung digitaler Prozesse. Dabei kommen moderne Technologien zum Einsatz, um eine stabile und sichere Umgebung zu gewährleisten.
@@ -11,11 +11,11 @@ FamTec bietet verschiedene Dienste an, die zur Organisation und Verwaltung digit
 - **[cloud.famtec.ch](https://cloud.famtec.ch)** – Cloud-Speicherlösung für den sicheren Austausch und die Verwaltung von Dateien.
 - **[fibu.famtec.ch](https://fibu.famtec.ch)** – Unterstützung bei Finanzverwaltung und Organisation.
 - **[wiki.famtec.ch](https://wiki.famtec.ch)** – Zentralisierte Sammlung von Wissen und Dokumentationen.
-- **[Hardware Katalog](https://famtec.wixstudio.com/famtec-hardware)** – Hardware Katalog der von FamTec empfohlen wird.
+- **[Hardware Katalog](https://famtec.wixstudio.com/famtec-hardware)** – Hardware Katalog, der von FamTec empfohlen wird.
 
 Der Zugang zu einigen Diensten ist aus Sicherheitsgründen beschränkt und nur für berechtigte Nutzer:innen möglich.
 
-## Geschäftsbedingungen
+## 📜 Geschäftsbedingungen
 - Hier findest du unsere [allgemeine Geschäftsbedingungen (AGB)](https://github.com/famtec-ch/.github/blob/master/gesch%C3%A4ftsbedingungen/allgemeine_gesch%C3%A4ftsbedingungen_famtec.pdf).
 - Hier findest du die [Geschäftsbedingungen für spezifische Dienstleistungen](https://github.com/famtec-ch/.github/tree/master/gesch%C3%A4ftsbedingungen).
 
@@ -25,13 +25,13 @@ Der Zugang zu einigen Diensten ist aus Sicherheitsgründen beschränkt und nur f
 - **Kontinuierliche Anpassungen** gewährleisten eine fortlaufende Optimierung.
 
 ## 🏠 Über Uns
-FamTec ist ein fortlaufendes Entwicklungsprojekt, das mit Blick auf aktuelle und zukünftige Herausforderungen weiterentwickelt wird. Der Fokus liegt auf Sicherheit, Verlässlichkeit und einer anpassbaren Infrastruktur, um den individuellen Anforderungen gerecht zu werden.
+FamTec ist ein fortlaufendes Entwicklungsprojekt, das mit Blick auf aktuelle und zukünftige Herausforderungen weiterentwickelt wird. Der Fokus liegt auf Sicherheit, Verlaesslichkeit und einer anpassbaren Infrastruktur, um den individuellen Anforderungen gerecht zu werden.
 
 ## 💼 Externe Dienstleistungen
 
 Neben unseren internen Lösungen bieten wir auch Unterstützung für externe Anfragen an. Unser Team hilft gerne bei:
 
-- **Hardware-Beschaffung & Einrichtung** – Beratung, Beschaffung und Konfiguration passender Geräte.
+- **Hardware-Beschaffung & Einrichtung** – Beratung, Beschaffung und Konfiguration passender Geraete.
 - **IT-Systeme & Netzwerke** – Installation, Wartung und Optimierung von IT-Systemen, inklusive Netzwerkabsicherung.
 - **Systemadministration & Engineering** – Betreuung und Weiterentwicklung von IT-Infrastrukturen.
 - **Serverbereitstellung** – Einrichtung und Verwaltung von Servern für eigene Anwendungen.
@@ -60,6 +60,12 @@ FamTec offers various services to support the organization and management of dig
 - **[wiki.famtec.ch](https://wiki.famtec.ch)** – Centralized collection of knowledge and documentation.
 
 Access to some services is restricted for security reasons and is only available to authorized users.
+
+## 📜 Terms and Conditions
+- Here you can find our [general terms and conditions](https://github.com/famtec-ch/.github/blob/master/gesch%C3%A4ftsbedingungen/allgemeine_gesch%C3%A4ftsbedingungen_famtec.pdf).
+- Here you can find the [terms and conditions for specific services](https://github.com/famtec-ch/.github/tree/master/gesch%C3%A4ftsbedingungen).
+
+> Please note: The documents are available only in German.
 
 ## 🔧 Our Philosophy
 - **Security and stability** are at the core of all developments.
