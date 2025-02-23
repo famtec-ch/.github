@@ -15,6 +15,10 @@ FamTec bietet verschiedene Dienste an, die zur Organisation und Verwaltung digit
 
 Der Zugang zu einigen Diensten ist aus Sicherheitsgründen beschränkt und nur für berechtigte Nutzer:innen möglich.
 
+## Geschäftsbedingungen
+- Hier findest du unsere [allgemeine Geschäftsbedingungen (AGB)](https://github.com/famtec-ch/.github/blob/master/gesch%C3%A4ftsbedingungen/allgemeine_gesch%C3%A4ftsbedingungen_famtec.pdf).
+- Hier findest du die [Geschäftsbedingungen für spezifische Dienstleistungen](https://github.com/famtec-ch/.github/tree/master/gesch%C3%A4ftsbedingungen).
+
 ## 🔧 Unsere Philosophie
 - **Sicherheit und Stabilität** stehen im Mittelpunkt aller Entwicklungen.
 - **Effiziente und nachhaltige Lösungen** bilden die Grundlage für den Betrieb.
