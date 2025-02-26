@@ -1,0 +1,2 @@
+## Allgemeine Geschäftsbedingungen von FamTec
+[Allgemeine Geschäftsbedingungen](https://github.com/famtec-ch/.github/blob/master/gesch%C3%A4ftsbedingungen/allgemeine_gesch%C3%A4ftsbedingungen_famtec.pdf)
