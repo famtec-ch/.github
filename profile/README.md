@@ -17,7 +17,7 @@ Der Zugang zu einigen Diensten ist aus Sicherheitsgründen beschränkt und nur f
 
 ## 📜 Geschäftsbedingungen
 - Hier findest du unsere [allgemeine Geschäftsbedingungen (AGB)](https://github.com/famtec-ch/.github/blob/master/gesch%C3%A4ftsbedingungen/allgemeine_gesch%C3%A4ftsbedingungen_famtec.pdf).
-- Hier findest du die [Geschäftsbedingungen für spezifische Dienstleistungen](https://github.com/famtec-ch/.github/tree/master/gesch%C3%A4ftsbedingungen).
+- Hier findest du die [Geschäftsbedingungen für spezifische Dienstleistungen](https://github.com/famtec-ch/.github/blob/master/gesch%C3%A4ftsbedingungen/gesch%C3%A4ftsbedingungen.md).
 
 ## 🔧 Unsere Philosophie
 - **Sicherheit und Stabilität** stehen im Mittelpunkt aller Entwicklungen.
@@ -63,7 +63,7 @@ Access to some services is restricted for security reasons and is only available
 
 ## 📜 Terms and Conditions
 - Here you can find our [general terms and conditions](https://github.com/famtec-ch/.github/blob/master/gesch%C3%A4ftsbedingungen/allgemeine_gesch%C3%A4ftsbedingungen_famtec.pdf).
-- Here you can find the [terms and conditions for specific services](https://github.com/famtec-ch/.github/tree/master/gesch%C3%A4ftsbedingungen).
+- Here you can find the [terms and conditions for specific services](https://github.com/famtec-ch/.github/blob/master/gesch%C3%A4ftsbedingungen/gesch%C3%A4ftsbedingungen.md).
 
 > Please note: The documents are available only in German.
 
