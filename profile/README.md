@@ -15,7 +15,6 @@ FamTec bietet verschiedene Dienste an, die zur Organisation und Verwaltung digit
 FamTec bietet verschiedene Dienste an, die zur Organisation und Verwaltung digitaler Inhalte beitragen. Diese sind für die Familie sowie in bestimmten Fällen für externe Nutzer:innen zugänglich:
 
 - **[cloud.famtec.ch](https://cloud.famtec.ch)** – Cloud-Speicherlösung für den sicheren Austausch und die Verwaltung von Dateien.
-- **[fibu.famtec.ch](https://fibu.famtec.ch)** – Unterstützung bei Finanzverwaltung und Organisation.
 - **[wiki.famtec.ch](https://wiki.famtec.ch)** – Zentralisierte Sammlung von Wissen und Dokumentationen.
 - **[Quick Support](https://github.com/famtec-ch/quick-support)** – Schnelle Hilfe und Tools für den technischen Support.
 
