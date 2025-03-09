@@ -16,7 +16,7 @@ Falls du weitere Dienstleistungen nutzt, findest du hier die jeweiligen Geschäf
 | 🛠️ **Dienstleistung**         | 📄 **Geltende Geschäftsbedingungen** |
 |-------------------------------|--------------------------------------|
 | **Webmaster-Service**         | [Bedingungen für Webmaster](#)      |
-| **Notebook-Setup**            | [Bedingungen für Notebook-Setup](#) |
+| **Hardware-Setup**            | [Bedingungen für Hardware-Setup](#) |
 | **Server-Hosting**            | [Bedingungen für Server-Hosting](#) |
 | **Cloud-Dienste**             | [Bedingungen für Cloud-Dienste](#)  |
 | **Wartungsverträge**          | [Bedingungen für Wartung](#)        |
