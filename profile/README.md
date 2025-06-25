@@ -10,7 +10,7 @@ FamTec bietet verschiedene Dienste an, die zur Organisation und Verwaltung digit
 
 - **[Hardware Katalog](https://famtec.wixstudio.com/famtec-hardware)** – Hardware Katalog, der von FamTec empfohlen wird.
 - **[Quick Support](https://github.com/famtec-ch/quick-support)** – Schnelle Hilfe und Tools für den technischen Support.
-- **[Supportfall / Ticket](https://famtec.ch/ticket)** – Eröffne einen Supportfall bei uns.
+- **[Supportfall / Ticket](https://famtec.ch/ticket)** – Eröffne einen Supportfall bei uns. **!! Experimentell: befindet sich im Aufbau. !!**
 
 ## 🔹 Interne Dienste
 FamTec bietet verschiedene Dienste an, die zur Organisation und Verwaltung digitaler Inhalte beitragen. Diese sind für die Familie sowie in bestimmten Fällen für externe Nutzer:innen zugänglich:
